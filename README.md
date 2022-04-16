@@ -54,6 +54,7 @@ SOURCES:
 ###    https://www.youtube.com/c/adamtlangley/featured
     Adam Langley's CTF challanges.co.uk
     https://ctfchallenge.com/
+    
     check: 
     adam langley's ctf books
 - Adam Marczak - Azure for Everyone
