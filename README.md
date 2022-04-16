@@ -59,7 +59,7 @@ Programming:
 Blockchain: 
 - Solidity
 
-SOURCES:
+#**SOURCES**:
 # Adam Langley
 ##    https://www.youtube.com/c/adamtlangley/featured
     Adam Langley's CTF challanges.co.uk
