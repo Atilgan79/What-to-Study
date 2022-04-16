@@ -74,52 +74,52 @@ Blockchain:
     Microsoft Certified: Azure Fundamentals
     https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
 
-# BugCrowd
-##    https://www.youtube.com/c/Bugcrowd/
+## BugCrowd
+###    https://www.youtube.com/c/Bugcrowd/
 
-# Can Deger
-##    https://www.youtube.com/c/CanDeger
+## Can Deger
+###    https://www.youtube.com/c/CanDeger
       https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/BaglantilarVeBilgiler.md#bugbounty
       https://www.lunizz.com
       
-# DarkSec
-##    Try Hack Me videos
+## DarkSec
+###    Try Hack Me videos
       https://www.youtube.com/c/DarkSec/featured
 
-# David Bombal  
-##    https://www.youtube.com/c/DavidBombal/playlists
+## David Bombal  
+###    https://www.youtube.com/c/DavidBombal/playlists
 
-# freeCodeCamp.org
-##    https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+## freeCodeCamp.org
+###    https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
 
-# HackTheBox
-##    https://www.youtube.com/c/HackTheBox/videos
+## HackTheBox
+###    https://www.youtube.com/c/HackTheBox/videos
       HTB Stories #8: Bug Bounties 101 w/InsiderPhD
       https://www.youtube.com/watch?v=4XS9D52yPbs
 
-# My CS
-##      https://www.youtube.com/c/MyCS1/
+## My CS
+###      https://www.youtube.com/c/MyCS1/
 
-# Nahamsek
-##      https://www.youtube.com/c/Nahamsec/playlists
+## Nahamsek
+###      https://www.youtube.com/c/Nahamsec/playlists
 
-# NetworkChuck
-##      https://www.youtube.com/c/NetworkChuck/
+## NetworkChuck
+###      https://www.youtube.com/c/NetworkChuck/
 
-# Peter Yaworski
-##      https://www.youtube.com/c/yaworsk1/playlists
+## Peter Yaworski
+###      https://www.youtube.com/c/yaworsk1/playlists
 
-# Router Gods
-##      https://www.youtube.com/c/routergods
+## Router Gods
+###      https://www.youtube.com/c/routergods
 
-# SCCM Training Videos
-##      https://www.youtube.com/c/SCCMTrainingVideos/videos
+## SCCM Training Videos
+###      https://www.youtube.com/c/SCCMTrainingVideos/videos
 
-# SimplilearnOfficial
-##      https://www.youtube.com/c/SimplilearnOfficial
+## SimplilearnOfficial
+###      https://www.youtube.com/c/SimplilearnOfficial
 
-# STÖK
-##    https://www.youtube.com/c/STOKfredrik/playlists
+## STÖK
+###    https://www.youtube.com/c/STOKfredrik/playlists
 
         // Connect with STÖK // 
         Twitter: https://twitter.com/stokfredrik 
@@ -130,11 +130,11 @@ Blockchain:
         Website: https://www.stokfredrik.com/ 
         Truesec: https://www.truesec.com/  
 
-# TechWorld with Nana
-##      https://www.youtube.com/c/TechWorldwithNana/
+## TechWorld with Nana
+###      https://www.youtube.com/c/TechWorldwithNana/
 
-# The Cyber Mentor
-##      https://www.youtube.com/c/TheCyberMentor 
+## The Cyber Mentor
+###      https://www.youtube.com/c/TheCyberMentor 
         https://github.com/hmaverickadams
         
         Ethical Hacking in 12 Hours - Full Course - Learn to Hack! (The Cyber Mentor)
