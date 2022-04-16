@@ -83,8 +83,8 @@ Blockchain:
 
 ## Can Deger
 ###    [Youtube](https://www.youtube.com/c/CanDeger)
-   [Siber Güvenlik SSS](https://github.com/LuNiZz/siber-guvenlik-sss)
-   [Github](https://www.lunizz.com)
+   -[Siber Güvenlik SSS](https://github.com/LuNiZz/siber-guvenlik-sss)\
+   -[Github](https://www.lunizz.com)
       
 ## DarkSec
 ###    [Try Hack Me videos](https://www.youtube.com/c/DarkSec/featured)
