@@ -149,8 +149,8 @@ SOURCES:
         Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
         https://www.youtube.com/watch?v=qwA6MmbeGNo&t=15s
 
-       Beginner Web Application Hacking (Full Course)
-       https://www.youtube.com/watch?v=24fHLWXGS-M&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&index=4
+        Beginner Web Application Hacking (Full Course)
+        https://www.youtube.com/watch?v=24fHLWXGS-M&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&index=4
        
-       Buffer Overflows Made Easy (2022 Edition)
-       https://www.youtube.com/watch?v=ncBblM920jw&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&index=4
+        Buffer Overflows Made Easy (2022 Edition)
+        https://www.youtube.com/watch?v=ncBblM920jw&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&index=4
