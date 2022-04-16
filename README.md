@@ -52,7 +52,7 @@ Blockchain:
 SOURCES:
 # Adam Langley
 ###    https://www.youtube.com/c/adamtlangley/featured
-###    Adam Langley's CTF challanges.co.uk
+    Adam Langley's CTF challanges.co.uk
     https://ctfchallenge.com/
     check: 
     adam langley's ctf books
