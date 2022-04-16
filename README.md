@@ -57,14 +57,23 @@ SOURCES:
     
     check: 
     adam langley's ctf books
+
 # Adam Marczak - Azure for Everyone
 ##    https://www.youtube.com/c/Azure4Everyone/videos
     FREE TRAINING
     Microsoft Certified: Azure Fundamentals
     https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
+
 # BugCrowd
+##    https://www.youtube.com/c/Bugcrowd/
+
 # Can Deger
+##    https://www.youtube.com/c/CanDeger
+
 # DarkSec
+##    Try Hack Me videos
+      https://www.youtube.com/c/DarkSec/featured
+
 # David Bombal
 # freeCodeCamp.org
 # HackTheBox
