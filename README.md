@@ -68,8 +68,8 @@ Blockchain:
     check: 
     adam langley's ctf books
 
-# Adam Marczak - Azure for Everyone
-##    https://www.youtube.com/c/Azure4Everyone/videos
+## Adam Marczak - Azure for Everyone
+###    https://www.youtube.com/c/Azure4Everyone/videos
     FREE TRAINING
     Microsoft Certified: Azure Fundamentals
     https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
