@@ -1,40 +1,41 @@
 # What Topics to Study
 
 Linux: 
-- Linux: Learn CLI
-- Linux: RedHat
-- Linux: Ubuntu
-- Linux: Kali
-- Linux: Debian
+- Learn CLI
+- RedHat
+- Ubuntu
+- Kali
+- Debian
 
 Cyber Security: 
-- Cyber Security: Fundamentals
-- Cyber Security: CTF (Capture The Flag) 
-- Cyber Security: Bug Bounty
+- Fundamentals
+- CTF (Capture The Flag) 
+- Bug Bounty
 
 Cloud: 
-- Cloud: Azure
-- Cloud: AWS
-- Cloud: Google Cloud
-- Cloud: Docker
-- Cloud: Kubernetes
+- Azure
+- AWS
+- Google Cloud
+- Docker
+- Kubernetes
 
 Big Data and data analysis: 
-- Big Data and data analysis: Fundamentals
-- Big Data and data analysis: Splunk
-- Big Data and data analysis: Apachie Spark
+- Fundamentals
+- Splunk
+- Apachie Spark
 
 AI (Artificial Intelligence), deep learning, machine learning: 
-- AI (Artificial Intelligence), deep learning, machine learning, Fundamentals
+- Fundamentals
 
 DevOps: 
-- DevOps, Fundamentals
+- Fundamentals
 
 Programming: 
-- Programming: Python
-- Programming: Python - Jupyter
-- Programming: JS and React
-- Programming: Bash Script
+- Python
+- Python & Jupyter
+- JS
+- JS and React
+- Bash Script
 
 Blockchain: 
-- Blockchain: Solidity
+- Solidity
