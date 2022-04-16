@@ -94,8 +94,11 @@ Blockchain:
 
 ## HackTheBox
 ###    https://www.youtube.com/c/HackTheBox/videos
-      HTB Stories #8: Bug Bounties 101 w/InsiderPhD
-      https://www.youtube.com/watch?v=4XS9D52yPbs
+       HTB Stories #8: Bug Bounties 101 w/InsiderPhD
+       https://www.youtube.com/watch?v=4XS9D52yPbs
+
+## John Savill's Technical Training
+### https://www.youtube.com/c/NTFAQGuy/playlists
 
 ## My CS
 ###      https://www.youtube.com/c/MyCS1/
