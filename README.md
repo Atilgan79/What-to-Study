@@ -11,6 +11,9 @@ Cyber Security:
 - Fundamentals
 - CTF (Capture The Flag) 
 - Bug Bounty
+- Reserve Enginnering
+- Computer Forensic
+- Cloud Security
 
 Cloud: 
 - Azure
@@ -23,6 +26,12 @@ Big Data and data analysis:
 - Fundamentals
 - Splunk
 - Apachie Spark
+
+Data Science Programming Language and Frameworks:
+- Python 
+- R
+- Numpy
+- Pandas
 
 AI (Artificial Intelligence), deep learning, machine learning: 
 - Fundamentals
