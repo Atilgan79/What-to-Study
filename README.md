@@ -68,8 +68,11 @@ Blockchain:
 - Solidity
 
 # Where to Study:
-##  EDX: https://www.edx.org/
-    
+##  EDX:                 https://www.edx.org/
+##  BTK Akademi:         https://www.btkakademi.gov.tr/
+##  Udemy:               https://www.udemy.com/ 
+##  CyberVista:          https://certify.cybervista.net/    
+##  Offensive Security:  https://www.offensive-security.com/courses-and-certifications/            
 
 # SOURCES:
 ## Adam Langley
