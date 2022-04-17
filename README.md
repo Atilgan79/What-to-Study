@@ -55,7 +55,7 @@ Programming:
 - Python
 - Python & Jupyter
 - JS
-- JS and React
+-- JS and React
 - Bash Script
 - GO
 - R
