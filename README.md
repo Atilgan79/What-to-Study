@@ -75,6 +75,7 @@ Networking:
   - Cook Books (Configuration Guides): <br> https://docs.fortinet.com/product/fortigate/6.2   
   - Docs Library: <br> https://docs.fortinet.com/
 - Juniper
+  - Juniper Networks Configuration Guides: <br> https://www.juniper.net/documentation/en_US/junos-space18.2/platform/topics/concept/configuration-guides-overview.html
 - Checkpoint
 - Palo Alto
 - GNS3
