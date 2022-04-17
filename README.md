@@ -68,7 +68,7 @@ Blockchain:
 - Solidity
 
 # Where to Study:
-##  EDX: (https://www.edx.org/)
+##  EDX: https://www.edx.org/
     
 
 # SOURCES:
