@@ -53,9 +53,9 @@ Quantum Computation:
 
 Programming: 
 - Python
-- Python & Jupyter
+    - Jupyter
 - JS
--- JS and React
+    -React
 - Bash Script
 - GO
 - R
