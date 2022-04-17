@@ -105,6 +105,9 @@ GitHub:
 ## David Bombal  
 ###    [Youtube Playlists](https://www.youtube.com/c/DavidBombal/playlists)
 
+## Edureka
+###    [Youtube Playlists](https://www.youtube.com/c/edurekaIN/playlists)
+
 ## freeCodeCamp.org
 ###    [Youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
