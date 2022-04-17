@@ -67,6 +67,9 @@ Programming:
 Blockchain: 
 - Solidity
 
+# Where to Study:
+
+
 # SOURCES:
 ## Adam Langley
 ###    [Youtube](https://www.youtube.com/c/adamtlangley/featured)
