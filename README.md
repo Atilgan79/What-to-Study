@@ -79,7 +79,10 @@ Networking:
 - Checkpoint
   - Downloads & Documentation - All Products: <br> https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doShowprelanding&all
 - Palo Alto
+  - Tech Docs: <br> https://docs.paloaltonetworks.com/resources
 - GNS3
+  - Getting Started with GNS3: <br> https://docs.gns3.com/docs/
+  - GNS3 Related Videos: <br> https://www.youtube.com/results?search_query=gns3
 
 Blockchain: 
 - Solidity
