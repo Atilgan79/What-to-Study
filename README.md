@@ -70,7 +70,8 @@ Programming:
 Networking:
 - Cisco
   - Configuration Guides: <br> https://www.cisco.com/c/en/us/support/ios-nx-os-software/ios-15-4m-t/products-installation-and-configuration-guides-list.html
-- Fortigate
+- FortiNet / FortiGate
+  - Cook Books (Configuration Guides): <br> https://docs.fortinet.com/product/fortigate/6.2   
 - Juniper
 - Checkpoint
 - Palo Alto
