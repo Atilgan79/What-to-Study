@@ -67,6 +67,15 @@ Programming:
 - C#
 - C++
 
+Networking:
+- Cisco
+  - Configuration Guides: https://www.cisco.com/c/en/us/support/ios-nx-os-software/ios-15-4m-t/products-installation-and-configuration-guides-list.html
+- Fortigate
+- Juniper
+- Checkpoint
+- Palo Alto
+- GNS3
+
 Blockchain: 
 - Solidity
 
