@@ -69,7 +69,7 @@ Blockchain:
 
 # WHERE TO STUDY
 ##  EDX:                 https://www.edx.org/
-##  BTK Akademi:         https://www.btkakademi.gov.tr/
+  BTK Akademi:         https://www.btkakademi.gov.tr/
 ##  Udemy:               https://www.udemy.com/ 
 ##  CyberVista:          https://certify.cybervista.net/    
 ##  Offensive Security:  https://www.offensive-security.com/courses-and-certifications/            
