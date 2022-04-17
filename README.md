@@ -67,7 +67,7 @@ Programming:
 Blockchain: 
 - Solidity
 
-# Where to Study:
+# WHERE TO STUDY
 ##  EDX:                 https://www.edx.org/
 ##  BTK Akademi:         https://www.btkakademi.gov.tr/
 ##  Udemy:               https://www.udemy.com/ 
