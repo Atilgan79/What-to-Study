@@ -69,11 +69,11 @@ Programming:
 
 Networking:
 - Cisco
-  - Configuration Guides: <br> https://www.cisco.com/c/en/us/support/ios-nx-os-software/ios-15-4m-t/products-installation-and-configuration-guides-list.html
   - Cisco Learning Network: <br> https://learningnetwork.cisco.com/s/
+  - Configuration Guides: <br> https://www.cisco.com/c/en/us/support/ios-nx-os-software/ios-15-4m-t/products-installation-and-configuration-guides-list.html
 - FortiNet / FortiGate
-  - Cook Books (Configuration Guides): <br> https://docs.fortinet.com/product/fortigate/6.2   
   - Docs Library: <br> https://docs.fortinet.com/
+  - Cook Books (Configuration Guides): <br> https://docs.fortinet.com/product/fortigate/6.2   
 - Juniper
   - Juniper Networks Configuration Guides: <br> https://www.juniper.net/documentation/en_US/junos-space18.2/platform/topics/concept/configuration-guides-overview.html
 - Checkpoint
