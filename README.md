@@ -91,11 +91,16 @@ GitHub:
 - Fundamentals
 
 # WHERE TO STUDY
-##  EDX:                 https://www.edx.org/
 ##  BTK Akademi:         https://www.btkakademi.gov.tr/
 ##  Udemy:               https://www.udemy.com/ 
 ##  CyberVista:          https://certify.cybervista.net/    
 ##  Offensive Security:  https://www.offensive-security.com/courses-and-certifications/            
+##  Coursera:            https://www.coursera.org/
+##  Udacity:             https://www.udacity.com/
+##  EDX:                 https://www.edx.org/
+##  LinkedIn Learning:   https://www.linkedin.com/learning/
+
+
 
 # SOURCES:
 ## Adam Langley
