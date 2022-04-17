@@ -46,6 +46,9 @@ AI (Artificial Intelligence), deep learning, machine learning:
 DevOps: 
 - Fundamentals
 
+Quantum Computation: 
+- Fundamentals
+
 Programming: 
 - Python
 - Python & Jupyter
