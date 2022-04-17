@@ -1,5 +1,5 @@
 
-# What Topics to Study
+# WHAT TOPICS TO STUDY
 
 Linux: 
 - Learn CLI
