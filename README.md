@@ -66,6 +66,9 @@ Programming:
 - C
 - C#
 - C++
+- GitHub
+  - Fundamentals
+    - Git and GitHub for Beginners - Crash Course: <br> https://www.youtube.com/watch?v=RGOj5yH7evk
 
 Networking:
 - Cisco
@@ -86,9 +89,6 @@ Networking:
 
 Blockchain: 
 - Solidity
-
-GitHub:
-- Fundamentals
 
 # WHERE TO STUDY
 ##  BTK Akademi:         https://www.btkakademi.gov.tr/
