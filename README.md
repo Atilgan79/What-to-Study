@@ -90,6 +90,12 @@ Networking:
 Blockchain: 
 - Solidity
 
+IoT:
+- Raspberry Pi
+  - Projects
+- Arduino
+  - Projects
+
 # WHERE TO STUDY
 ##  BTK Akademi:         https://www.btkakademi.gov.tr/
 ##  Udemy:               https://www.udemy.com/ 
