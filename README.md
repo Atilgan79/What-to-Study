@@ -94,6 +94,7 @@ IoT:
 - Raspberry Pi
   - Projects
     - Build an Automated Hydroponic System: <br> https://www.youtube.com/watch?v=nyqykZK2Ev4
+    - Automate Your Grow with Home Assistant #1-7: <br> https://www.youtube.com/watch?v=2UFSuJjH2LU&list=PL4ZeBGl9K1KR3Fdti_zljNd0mKSkYV992
 - Arduino
   - Projects
 
