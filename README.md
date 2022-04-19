@@ -96,6 +96,7 @@ IoT:
     - Build an Automated Hydroponic System: <br> https://www.youtube.com/watch?v=nyqykZK2Ev4
     - Automate Your Grow with Home Assistant #1-7: <br> https://www.youtube.com/watch?v=2UFSuJjH2LU&list=PL4ZeBGl9K1KR3Fdti_zljNd0mKSkYV992
     - Automating a Greenhouse with LoRa! (Part 1) || Sensors (Temperature, Humidity, Soil Moisture): <br> https://www.youtube.com/watch?v=2YJHcGQnpAk
+    - FarmBot: open-source backyard robot for automated gardening: <br> https://www.youtube.com/watch?v=BqYrAWssrrY
 - Arduino
   - Projects
 
