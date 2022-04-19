@@ -93,6 +93,7 @@ Blockchain:
 IoT:
 - Raspberry Pi
   - Projects
+    - Build an Automated Hydroponic System: <br> https://www.youtube.com/watch?v=nyqykZK2Ev4
 - Arduino
   - Projects
 
