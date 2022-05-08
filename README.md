@@ -1,7 +1,7 @@
 
 # WHAT TOPICS TO STUDY
 
-Linux: 
+### Linux: 
 - Learn CLI
 - RedHat
 - Ubuntu
@@ -9,7 +9,10 @@ Linux:
 - Debian
 - Suse Linux
 
-Cyber Security: 
+### Cyber Security: 
+#### Sites to Practice and learn:
+    1. Tryhackme.com -- Very Beginner Friendly
+    2. Hackthebox.com -- Recommended for Mediocre to Advanced users
 - Fundamentals
 - CTF (Capture The Flag) 
 - Bug Bounty
@@ -113,6 +116,11 @@ IoT:
 
 
 # SOURCES:
+## John Hammond 
+###    [Youtube](https://www.youtube.com/c/JohnHammond010)
+  Check: 
+  Playlists related to PicoCTF for beginners. 
+  
 ## Adam Langley
 ###    [Youtube](https://www.youtube.com/c/adamtlangley/featured)
     Adam Langley's CTF challanges.co.uk
